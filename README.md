@@ -14,8 +14,8 @@ Not glue code. Actual systems.
 
 ### TheDataEngineX Platform
 
-My flagship OSS project: a self-hosted, config-driven alternative to the Airflow + MLflow + LangChain + FastAPI stack.
-One `dex.yaml` replaces all of it.
+My flagship OSS project: a complete, self-hosted platform for the entire Data + ML + AI engineering lifecycle.
+One `dex.yaml` — production-ready implementations of every layer, with native integrations for Airflow, MLflow, and LangChain when you need their specific capabilities.
 
 ```
 CSV / S3 / API
